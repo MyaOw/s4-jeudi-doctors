@@ -1,24 +1,9 @@
-# README
+# Plateforme de réservation de docteurs
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tu veux concurrencer Doctolib, donc tu te dis : et si je créais un site qui fait la même chose ? C'est ce que nous allons voir 👩‍⚕
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Mode d'emploi
+Dans votre console, lancez les instructions suivantes :<br/>
+`bundle install`<br/>
+`rails db:migrate`<br/>
+`rails db:seeds`<br/>
