@@ -6,4 +6,4 @@ Tu veux concurrencer Doctolib, donc tu te dis : et si je créais un site qui fai
 Dans votre console, lancez les instructions suivantes :<br/>
 `bundle install`<br/>
 `rails db:migrate`<br/>
-`rails db:seeds`<br/>
+`rails db:seed`<br/>
